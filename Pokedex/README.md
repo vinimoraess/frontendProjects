@@ -1,17 +1,8 @@
 # POKEDEX
 
-### Nome dos integrantes:
+### Autor
 - Vinícius Moraes
 
-### Link do Surge: 
-- breakable-activity.surge.sh
-
-### O que funciona:
-- Página Home
-- Página Detalhes
-- Página Pokedex
-- Todas requisições
-
-### O que não funciona: 
-- responsividade
-
+### Resumo: 
+- Projeto dedicado a consumir a API de pokemons, onde buscamos apenas os 20 primeiros pokemons da lista,
+podemos capturar eles e jogar para a pokedex e também é possível ver os detalhes de cada pokemon.
